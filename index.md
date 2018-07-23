@@ -31,4 +31,4 @@ This is the Yassa Translational Neurobiology lab codebase. Here you will find co
 
 ### Install software using Docker images
 
-[DSI Studio](https://github.com/yassalab/docker_dsi_studio) ![John](https://avatars2.githubusercontent.com/u/12417002?s=400&v=4){:height="10%" width="10%"}
+[DSI Studio](https://github.com/yassalab/docker_dsi_studio) ![John](https://avatars2.githubusercontent.com/u/12417002?s=400&v=4){:height="3%" width="3%"}
