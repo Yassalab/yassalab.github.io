@@ -11,7 +11,7 @@ This is the Yassa Translational Neurobiology lab codebase. Here you will find co
 
 Experiments for cognitive neuroscience and experimental psychology
 
-[Spatial Learning]()  |  [![John](https://avatars2.githubusercontent.com/u/12417002?s=400&v=4){:height="7%" width="7%"}](github.com/fourbolt)
+[Spatial Learning]()  |  [![John](https://avatars2.githubusercontent.com/u/12417002?s=400&v=4){:height="7%" width="7%"}](https://www.github.com/fourbolt)
 
 [ORE]()  |  
 
