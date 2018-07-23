@@ -11,11 +11,13 @@ This is the Yassa Translational Neurobiology lab codebase. Here you will find co
 
 Experiments for cognitive neuroscience and experimental psychology
 
-[Spatial Learning]()  |  
+[Spatial Learning]()  |  [![John](https://avatars2.githubusercontent.com/u/12417002?s=400&v=4){:height="7%" width="7%"}](github.com/fourbolt)
 
 [ORE]()  |  
 
 [Mnemonic Discrimination]()  | 
+
+[Building your own experiment]() | [![John](https://avatars2.githubusercontent.com/u/12417002?s=400&v=4){:height="7%" width="7%"}](github.com/fourbolt)
 
 # RedCap Queries
 
@@ -23,7 +25,7 @@ Experiments for cognitive neuroscience and experimental psychology
 
 Powerful queries to the lab database of neuropsychs
 
-[Queries](https://github.com/yassalab/RedCapQueries)  |  ![John](https://avatars2.githubusercontent.com/u/12417002?s=400&v=4){:height="7%" width="7%"}
+[Queries](https://github.com/yassalab/RedCapQueries)  |  [![John](https://avatars2.githubusercontent.com/u/12417002?s=400&v=4){:height="7%" width="7%"}](github.com/fourbolt)
 
 # Dockerfiles
 
