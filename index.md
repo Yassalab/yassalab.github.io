@@ -9,6 +9,8 @@ This is the Yassa Translational Neurobiology lab codebase. Here you will find co
 
 * * *
 
+### Experiments for cognitive neuroscience and experimental psychology
+
 [Spatial Learning]()
 
 [ORE]()
@@ -19,7 +21,7 @@ This is the Yassa Translational Neurobiology lab codebase. Here you will find co
 
 * * *
 
-### Powerful queries to the lab database of neuropsychs.
+### Powerful queries to the lab database of neuropsychs
 
 [Queries](https://github.com/yassalab/RedCapQueries)
 
@@ -27,4 +29,6 @@ This is the Yassa Translational Neurobiology lab codebase. Here you will find co
 
 ***
 
-[DSI Studio](https://github.com/yassalab/docker_dsi_studio)
+### Install software using Docker images
+
+[DSI Studio](https://github.com/yassalab/docker_dsi_studio) ![John](https://avatars2.githubusercontent.com/u/12417002?s=400&v=4 =100x100)
